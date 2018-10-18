@@ -1,7 +1,7 @@
-# Awesome self-hosted AWS
+# Awesome Self-hosted AWS
 A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
 
-- [EC2 / Lightsail](#ec2-lightsail)
+- [EC2 / Lightsail](#ec2--lightsail)
 - [Lambda](#lambda)
 - [S3](#s3)
 - [Related Lists](#related-lists)
