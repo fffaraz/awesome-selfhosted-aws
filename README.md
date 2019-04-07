@@ -7,6 +7,7 @@ A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
 - [Related Lists](#related-lists)
 
 ## EC2 / Lightsail
+Elastic Compute Cloud
 
 * [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-ve) - Open source server virtualization management solution based on QEMU/KVM and LXC.
 
