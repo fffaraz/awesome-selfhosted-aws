@@ -21,6 +21,8 @@ Elastic Compute Cloud
 
 * [Ceph](https://github.com/ceph/ceph) - Distributed object, block, and file storage platform.
 * [Minio](https://github.com/minio/minio) - Open source object storage server compatible with Amazon S3 APIs.
+* [Garage](https://garagehq.deuxfleurs.fr/) – An open-source distributed object storage service tailored for self-hosting
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files.
 
 ## Related Lists
 
