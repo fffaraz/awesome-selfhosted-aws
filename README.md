@@ -4,6 +4,8 @@ A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
 - [EC2 / Lightsail](#ec2--lightsail)
 - [Lambda](#lambda)
 - [S3](#s3)
+- [Amplify](#amplify)
+- [Cloudwatch](https://github.com/Kaympe20/awesome-selfhosted-aws/edit/patch-1/README.md#amazon-cloudwatch)
 - [Related Lists](#related-lists)
 
 ## EC2 / Lightsail
