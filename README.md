@@ -31,7 +31,7 @@ Elastic Compute Cloud
 * [Grafana](https://grafana.com/grafana/) - An open-source platform for monitoring and observability.
 
 ## Amplify
-* [Supabase](https://supabase.com/) - Open source, backend as a service, and the most complete firebase alternative
+* [Supabase](https://supabase.com/) - Open source, backend as a service, and the most complete alternative
 * [Appwrite](https://appwrite.io/) - Open Source Authentication, Databases, Functions, Storage, and Messaging 
 * [nhost](https://nhost.io/) - An open source firebase alternative with a GraphQL API
   
