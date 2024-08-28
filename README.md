@@ -4,6 +4,8 @@ A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
 - [EC2 / Lightsail](#ec2--lightsail)
 - [Lambda](#lambda)
 - [S3](#s3)
+- [Amplify](#amplify)
+- [Cloudwatch](https://github.com/Kaympe20/awesome-selfhosted-aws/edit/patch-1/README.md#amazon-cloudwatch)
 - [Related Lists](#related-lists)
 
 ## EC2 / Lightsail
@@ -24,6 +26,15 @@ Elastic Compute Cloud
 * [Garage](https://garagehq.deuxfleurs.fr/) – An open-source distributed object storage service tailored for self-hosting
 * [SeaweedFS](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files.
 
+## Amazon CloudWatch
+* [Prometheus](https://prometheus.io/) - An open-source monitoring and alerting toolkit.
+* [Grafana](https://grafana.com/grafana/) - An open-source platform for monitoring and observability.
+
+## Amplify
+* [Supabase](https://supabase.com/) - Open source, backend as a service, and the most complete alternative
+* [Appwrite](https://appwrite.io/) - Open Source Authentication, Databases, Functions, Storage, and Messaging 
+* [nhost](https://nhost.io/) - An open source firebase alternative with a GraphQL API
+  
 ## Related Lists
 
 * [Awesome AWS](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.
