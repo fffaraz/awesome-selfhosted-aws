@@ -42,3 +42,4 @@ Elastic Compute Cloud
 * [Awesome Selfhosted](https://github.com/Kickball/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally.
 * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 * [r/selfhosted](https://www.reddit.com/r/selfhosted/) - A place to share alternatives to popular online services that can be self hosted without giving up privacy or locking you into a service you don't control.
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
