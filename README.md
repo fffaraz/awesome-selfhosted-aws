@@ -12,6 +12,7 @@ A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
 Elastic Compute Cloud
 
 * [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-ve) - Open source server virtualization management solution based on QEMU/KVM and LXC.
+* [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Lambda
 
