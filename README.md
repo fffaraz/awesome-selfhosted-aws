@@ -16,6 +16,7 @@ Elastic Compute Cloud
 ## Lambda
 
 * [1Backend](https://github.com/1backend/1backend) - Platform designed to make deploying, running and maintaining lambda functions/microservices easy.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 * [Fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes.
 * [OpenWhisk](https://github.com/apache/incubator-openwhisk) - Serverless event-based programming service.
 
